@@ -1,5 +1,5 @@
 from classes import *
-
+import sort_33
 address_book = AddressBook()
 
 def input_error(func):
@@ -213,6 +213,12 @@ def remove_phone_from_contact(command):
             raise KeyError
     else:
         raise ValueError
+    
+def sort_folder(args=None):
+    if args is None:
+        print("Please specify the source folder.")
+    else:
+        sort_33.main(args)
 
 @input_error
 def delete_contact(command):
@@ -229,6 +235,7 @@ def delete_contact(command):
 
 
 commands = {
+    "sort": sort_folder,
     "help": help,
     "hello": hello,
     "add": add_contact,
