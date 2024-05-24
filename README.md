@@ -18,7 +18,7 @@ PhotoShake is a web application that allows users to create an account, upload p
 
 ## :sparkles: Usage 
 
-This project exposes many endpoints through a REST API. To access these APIs, use any API client, such as Postman or cURL. The API documentation can be found at documentation.
+This project exposes many endpoints through a REST API. To access these APIs, use any API client. The API documentation can be found at documentation.
 
 
 ## :checkered_flag: Starting
