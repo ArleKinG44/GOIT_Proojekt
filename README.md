@@ -4,7 +4,7 @@
   <a href="#about">About</a> &#xa0; | &#xa0; 
   <a href="#Usage ">Usage </a> &#xa0; | &#xa0;
   <a href="#Features ">Features </a> &#xa0; | &#xa0;
-  <a href="#Technologies Used ">Technologies Used </a> &#xa0; | &#xa0;
+  <a href="#Technologies ">Technologies </a> &#xa0; | &#xa0;
   <a href="#starting">Starting</a> &#xa0; | &#xa0;
   <a href="#made-by">Made by</a> &#xa0; | &#xa0;
   
@@ -30,7 +30,7 @@ Image upload: Users can upload images to share with others.\
 Image comment: Users can leave comments under each others images.\
 Image search: Users can search for images by tag.
 
-##  Technologies Used
+##  Technologies
 
 Python\
 FastAPI\
