@@ -4,6 +4,7 @@
   <a href="#about">About</a> &#xa0; | &#xa0; 
   <a href="#Usage ">Usage </a> &#xa0; | &#xa0;
   <a href="#Features ">Features </a> &#xa0; | &#xa0;
+  <a href="#Technologies Used ">Technologies Used </a> &#xa0; | &#xa0;
   <a href="#starting">Starting</a> &#xa0; | &#xa0;
   <a href="#made-by">Made by</a> &#xa0; | &#xa0;
   
@@ -28,6 +29,14 @@ User authentication: Users can create accounts, log in, and log out.\
 Image upload: Users can upload images to share with others.\
 Image comment: Users can leave comments under each others images.\
 Image search: Users can search for images by tag.
+
+##  Technologies Used
+
+Python\
+FastAPI\
+PostgreSQL (for the database)\
+Docker (for containerization)\
+Other dependencies listed in requirements.txt and package.json
 
 ##  Starting
 
