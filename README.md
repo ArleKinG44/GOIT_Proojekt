@@ -40,7 +40,6 @@ Other dependencies listed in requirements.txt and package.json
 
 ##  Starting
 
-```bash
 To run the Photo Share project locally, follow these steps:
 
 1. Clone the repository:
@@ -67,10 +66,6 @@ To run the Photo Share project locally, follow these steps:
    ```
 
 5. Access the application at `http://localhost:8000` or `127.0.0.1:8000` in your web browser.
-
-
-
-```
 
 
 ##  Made by
