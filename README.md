@@ -13,7 +13,7 @@
 
 <br>
 
-##  About ##
+## ℹ️ About ##
 
 Photo Share is a web application that allows users to share, comment, and search photos.
 
@@ -23,14 +23,14 @@ Photo Share is a web application that allows users to share, comment, and search
 This project exposes many endpoints through a REST API. To access these APIs, use any API client. The API documentation can be found at documentation.
 
 
-##  Features
+## ✨ Features
 
 User authentication: Users can create accounts, log in, and log out.\
 Image upload: Users can upload images to share with others.\
 Image comment: Users can leave comments under each others images.\
 Image search: Users can search for images by tag.
 
-##  Technologies
+## 💻 Technologies
 
 In this project we used the following technologies:\
 
@@ -40,7 +40,7 @@ PostgreSQL (for the database)\
 Docker (for containerization)\
 Other dependencies listed in requirements.txt and package.json
 
-##  Starting
+## 🚀 Starting
 
 To run the Photo Share project locally, follow these steps:
 
@@ -70,7 +70,7 @@ To run the Photo Share project locally, follow these steps:
 5. Access the application at `http://localhost:8000` or `127.0.0.1:8000` in your web browser.
 
 
-## :memo: Made by
+## 👤 Made by
 
 Made with  by "CHANEL N°5":\
 :fire: [Dmytro Tarasenko](https://github.com/Dmytro-Tarasenko)\
