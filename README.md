@@ -32,6 +32,7 @@ Image search: Users can search for images by tag.
 
 ##  Technologies
 
+In this project we used the following technologies:\
 Python\
 FastAPI\
 PostgreSQL (for the database)\
