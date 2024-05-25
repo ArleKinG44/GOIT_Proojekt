@@ -11,12 +11,12 @@
 
 <br>
 
-## :dart: About ##
+##  About ##
 
-PhotoShake is a web application that allows users to create an account, upload posts with photos, use hashtags and leave comments. The application is built using the FastAPI framework and uses SQLAlchemy as the database ORM.
+Photo Share is a web application that allows users to share, comment, and search photos.
 
 
-## :sparkles: Usage 
+##  Usage 
 
 This project exposes many endpoints through a REST API. To access these APIs, use any API client. The API documentation can be found at documentation.
 
@@ -31,9 +31,9 @@ This project exposes many endpoints through a REST API. To access these APIs, us
 ```
 
 
-## :memo: Made by
+##  Made by
 
-Made with :heart: by "CHANEL N°5":\
+Made with  by "CHANEL N°5":\
 :fire: [Dmytro Tarasenko](https://github.com/Dmytro-Tarasenko)\
 :fire: [Denys Poletuchiy](https://github.com/ArleKinG44)\
 :fire: [Angelika Kodlubovska]()\
