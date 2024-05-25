@@ -1,7 +1,7 @@
 <h1 align="center">Project "PhotoSHAKE" from team "CHANEL N°5"</h1>
 
 <p align="center">
-  <a href="#about">ℹ️About</a> &#xa0; | &#xa0; 
+  <a href="#about">ℹ️ About</a> &#xa0; | &#xa0; 
   <a href="#Usage ">Usage </a> &#xa0; | &#xa0;
   <a href="#Features ">Features </a> &#xa0; | &#xa0;
   <a href="#Technologies ">Technologies </a> &#xa0; | &#xa0;
