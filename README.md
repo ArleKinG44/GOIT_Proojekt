@@ -70,7 +70,7 @@ To run the Photo Share project locally, follow these steps:
 5. Access the application at `http://localhost:8000` or `127.0.0.1:8000` in your web browser.
 
 
-##  Made by
+## :memo: Made by
 
 Made with  by "CHANEL N°5":\
 :fire: [Dmytro Tarasenko](https://github.com/Dmytro-Tarasenko)\
