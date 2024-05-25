@@ -41,7 +41,32 @@ Other dependencies listed in requirements.txt and package.json
 ##  Starting
 
 ```bash
+To run the Photo Share project locally, follow these steps:
 
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Dmytro-Tarasenko/PhotoShare
+   ```
+
+2. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+   Create file `.env` using `.env.example`.
+
+
+3. Set up the database:
+   - Run `docker-compose up -d` to create Docker container.
+   - Create a PostgreSQL database named `photo_share` or other name that you put in your `.env` file.
+   - Run `alembic upgrade head` to install migration in DB.
+   
+
+4. Run the application:
+   ```sh
+   uvicorn main:app --host localhost --port 8000 --reload
+   ```
+
+5. Access the application at `http://localhost:8000` or `127.0.0.1:8000` in your web browser.
 
 
 
