@@ -24,10 +24,10 @@ This project exposes many endpoints through a REST API. To access these APIs, us
 
 ##  Features
 
-User authentication: Users can create accounts, log in, and log out.
-Image upload: Users can upload images to share with others.
-Image comment: Users can leave comments under each others images.
-Image search: Users can search for images by keyword or tag.
+User authentication: Users can create accounts, log in, and log out.\
+Image upload: Users can upload images to share with others.\
+Image comment: Users can leave comments under each others images.\
+Image search: Users can search for images by tag.
 
 ##  Starting
 
