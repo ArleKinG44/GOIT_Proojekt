@@ -1,4 +1,4 @@
-<h1 align="center">Project "PhotoSHAKE" from team "CHANEL N°5"</h1>
+<h1 align="center">Project "PhotoShake" from team "CHANEL N°5"</h1>
 
 
 </p>
