@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="#ℹ️-about">About</a> &#xa0; | &#xa0; 
+  <a href="#🛠️-usage">Usage</a> &#xa0; | &#xa0;
   <a href="#✨-features">Features</a> &#xa0; | &#xa0;
   <a href="#💻-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#🚀-starting">Starting</a> &#xa0; | &#xa0;
