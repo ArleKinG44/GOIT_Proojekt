@@ -1,22 +1,14 @@
 <h1 align="center">Project "PhotoShake" from team "CHANEL N°5"</h1>
 
-<p align="center">
-  <a href="#ℹ️-about">About</a> &#xa0; | &#xa0; 
-  <a href="#🛠️-usage">Usage</a> &#xa0; | &#xa0;
-  <a href="#✨-features">Features</a> &#xa0; | &#xa0;
-  <a href="#💻-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#🚀-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#👤-made-by">Made by</a>
-</p>
 
 <br>
 
-## &#x2139;&#xFE0F; About ##
+## ℹ️ About ##
 
 Photo Share is a web application that allows users to share, comment, and search photos.
 
 
-## &#x1F6E0;&#xFE0F; Usage 
+## 🛠️ Usage 
 
 This project exposes many endpoints through a REST API. To access these APIs, use any API client. The API documentation can be found at documentation.
 
