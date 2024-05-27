@@ -16,7 +16,7 @@
 Photo Share is a web application that allows users to share, comment, and search photos.
 
 
-## 🛠️ Usage 
+## &#x1F6E0;&#xFE0F; Usage 
 
 This project exposes many endpoints through a REST API. To access these APIs, use any API client. The API documentation can be found at documentation.
 
