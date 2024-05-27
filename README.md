@@ -11,7 +11,7 @@
 
 <br>
 
-## ℹ️ About ##
+## &#x2139;&#xFE0F; About ##
 
 Photo Share is a web application that allows users to share, comment, and search photos.
 
