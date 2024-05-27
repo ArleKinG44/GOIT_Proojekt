@@ -1,6 +1,11 @@
 <h1 align="center">Project "PhotoShake" from team "CHANEL N°5"</h1>
 
-
+<p align="center">
+  <a href="#ℹ️-about">About</a> &#xa0; | &#xa0; 
+  <a href="#✨-features">Features</a> &#xa0; | &#xa0;
+  <a href="#💻-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#🚀-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#👤-made-by">Made by</a>
 </p>
 
 <br>
