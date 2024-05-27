@@ -65,7 +65,6 @@ To run the Photo Share project locally, follow these steps:
 Made with  by "CHANEL N°5":\
 :fire: [Dmytro Tarasenko](https://github.com/Dmytro-Tarasenko)\
 :fire: [Denys Poletuchiy](https://github.com/ArleKinG44)\
-:fire: [Angelika Kodlubovska]()\
 :fire: [Sergiy Chabanchuk](https://github.com/chabanchuk)\
 :fire: [Maksym Melnyk](https://github.com/Resst94)\
 :fire: [Oleksandr Buts](https://github.com/Oleksandr190378)
